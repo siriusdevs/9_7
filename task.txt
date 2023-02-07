@@ -1,5 +1,9 @@
 <<<<<<< refs/remotes/origin/belov
+<<<<<<< refs/remotes/origin/belov
 3 + 9 * 2 + 18 - 11 = 28
+=======
+18 * 4 + 4 + 16 - 10 = 82
+>>>>>>> local
 =======
 18 * 4 + 4 + 16 - 10 = 82
 >>>>>>> local
